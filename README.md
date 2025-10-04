@@ -143,10 +143,8 @@ sudo pacman -Rns steam-metadata-editor-git
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 
-## License
-This project is licensed under the terms of the [MIT License](LICENSE).
-
 ## Releases
+
 Prebuilt scripts and tagged versions are available on the
 [Releases page](https://github.com/jdros15/SME-Steam-Deck-Installer/releases).
 
