@@ -1,6 +1,10 @@
 # sme.sh — Steam Deck installer for steam metadata editor
 
-[**🚀 Download Latest Release**](https://github.com/jdros15/SME-Steam-Deck-Installer/releases/latest)
+<div align="center">
+  <a href="https://github.com/jdros15/SME-Steam-Deck-Installer/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jdros15/SME-Steam-Deck-Installer?label=Latest%20Release&style=for-the-badge&color=brightgreen" alt="Latest Release">
+  </a>
+</div>
 
 This repo ships `sme.sh`, a small script that installs, uninstalls, or purges **steam metadata editor** on a Steam Deck. It flips SteamOS read-only state when needed, fixes common pacman keyring errors, installs build tools, then installs the AUR package. It can also remove the package and clean local AUR caches.
 
